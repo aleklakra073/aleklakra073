@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm an enthusiastic developer with a strong focus 
 ## 📫 How to Reach Me
 
 - **GitHub:** [aleklakra073](https://github.com/aleklakra073)
-- **Email:** [aleklakra073@gmail.com]
-- **LinkedIn:** [Your LinkedIn URL here]
+- **Email:** aleklakra073@gmail.com
+- **LinkedIn:** [Alek Lakra](https://www.linkedin.com/in/alek-lakra-b5647a267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## 📝 Latest Activity
 
